@@ -1,0 +1,5 @@
+export class GameOfLifeState {
+  constructor() {
+    
+  }
+}
